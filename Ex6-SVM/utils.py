@@ -5,6 +5,7 @@ import seaborn as sns
 import sklearn.svm
 import sklearn.metrics
 from sklearn.model_selection import GridSearchCV
+from sklearn.linear_model import LogisticRegression
 
 from scipy.io import loadmat
 
